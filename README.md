@@ -23,8 +23,8 @@ Cómo probar el proyecto
 
 A continuación se encuentra la URL para probar el proyecto en funcionamiento:
 
-URL del proyecto:
-
+URL para provar:
+ https://zakariakebour-arch.github.io/Movimiento-con-teclas-en-JS/
 
 Estructura del proyecto
 
